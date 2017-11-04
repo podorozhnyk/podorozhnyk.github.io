@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Подорожник – сервіс \"оренди\" аптечок ",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 42,
@@ -34,13 +34,15 @@
         "#f9f9f9",
         "#f7f7f7"
       ]
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/200px-plantago-major-ies-128x112.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Подорожник – сервіс оренди аптечок",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
