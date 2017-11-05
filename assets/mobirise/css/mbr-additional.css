@@ -1432,8 +1432,20 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-qA6wmHMnpU {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qA6wmHMnpU .mbr-text,
+.cid-qA6wmHMnpU blockquote {
+  color: #767676;
+}
+.cid-qA6wmHMnpU .mbr-text {
+  text-align: center;
+}
 .cid-qA1wbt7UfT {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #efefef;
 }
@@ -1569,4 +1581,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qA0wFTbtAU P {
+  text-align: left;
 }
